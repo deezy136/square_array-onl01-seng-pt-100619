@@ -3,7 +3,7 @@ def square_array(array)
   
   array.each do | element |
   
-  Math.s
+  Math.sqrt(element) 
 end 
 
 end
